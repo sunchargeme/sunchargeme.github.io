@@ -1,4 +1,3 @@
-sunchargeme.github.io
-=====================
+# Sun Charge Me
 
-suncharge.me website files
+This is the home of [suncharge.me](http://suncharge.me/).  Solar Power Baby!!!
