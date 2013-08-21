@@ -1,0 +1,8 @@
+/* sunCharge.me has one simple goal: We want to opperate our mobile devices entirely on personally collected solar power energy.  Is it possible?  Join us on our journey and we will make it so. */
+/* suncharge.me */
+/* humanstxt.org */
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: jQuery, Orbit, Reveal
+  Software: Sublime Text 2, Git, SASS, Compass, Zurb-Foundation
